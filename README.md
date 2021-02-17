@@ -6,6 +6,9 @@
 4. IleDesPins
 
 ###Tables
-Mare | Lifou
+Iles| Atouts
 -----|------
-Beau  | Jolie
+Maré | +++++
+Lifou |++++
+Ouvea |++++
+IleDesPins | ++++
