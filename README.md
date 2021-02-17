@@ -1,11 +1,12 @@
-# ILES
+# ILES LOYAUTES
+
 ## Liste iles
 1. Mare :+1:
 2. Lifou :metal:
 3. Ouvea  :rocket:
 4. IleDesPins :tada:
 
-### Tables
+### Tables ATOUTS
 Iles| Atouts
 -----|------
 Maré | +++++
