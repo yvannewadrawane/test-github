@@ -1,9 +1,9 @@
 # ILES
 ## Liste iles
 1. Mare :+1:
-2. Lifou
-3. Ouvea
-4. IleDesPins
+2. Lifou :metal:
+3. Ouvea  :rocket:
+4. IleDesPins :tada:
 
 ### Tables
 Iles| Atouts
