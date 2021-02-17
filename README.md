@@ -1,5 +1,5 @@
 # ILES LOYAUTES
-
+La province des îles Loyauté est une des trois provinces qui constituent la Nouvelle-Calédonie
 ## Liste iles
 1. Mare :+1:
 2. Lifou :metal:
